@@ -5,4 +5,4 @@ Proxy grabber that takes webs and convert them into proxies.
 
 
 How to use:
-https://github.com/yabelo/Proxy-Grabber-By-Yablo/assets/111225417/92e679d3-87b2-4e87-862f-a87d74e680c3
+![Proxy grabber video explain](https://github.com/yabelo/Proxy-Grabber-By-Yablo/assets/111225417/92e679d3-87b2-4e87-862f-a87d74e680c3)
